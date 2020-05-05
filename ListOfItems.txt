@@ -1,0 +1,8 @@
+Chair
+Sofa
+Lamp
+Carpet
+Table
+Bed
+Desk
+Dresser
